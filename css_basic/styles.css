@@ -7,6 +7,8 @@ main {
     display: flex;
     flex-direction: row;
     flex: auto;
+    border-color: black;
+    color: green;
 }
 
 article {
@@ -21,4 +23,5 @@ aside {
 
 h1 {
     color: blue;
+    font-family: papyrus;
 }
