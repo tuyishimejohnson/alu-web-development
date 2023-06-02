@@ -1,1 +1,346 @@
+body {
 
+    background-image: url(The-images-Fol/background.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size:cover;   
+}
+
+.links {
+    margin-left: 900px;
+    color: white;
+    padding-bottom: -60px; 
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-family: 'Lucida Sans Regular';
+    font-size: 10px;
+    padding-top: -20px;
+    
+}
+
+.links a:hover{
+    color: rgba(62, 45, 45, 0.737);
+}
+.heading h1{
+    font-family: 'Lucida Sans Regular';
+    font-size: 100px;
+    font-weight: bolder;
+    line-height: 130px;
+    text-align: center;
+    color: white;
+
+
+}
+
+
+    
+
+.ordering {
+    justify-content: center;
+    color: white;
+    display: flex;
+    margin-top: -89px;
+    
+}
+
+.word {
+    margin-left: 50px;
+    font-family: 'Lucida Sans Regular';
+    font-size: 12px;
+    display: flex;
+}
+
+.first-button button {
+margin-left: 535px;
+color: white;
+background-color:#C271FF;
+padding-left: 16px;
+padding-right: 16px;
+font-family: 'Lucida Sans Regular';
+font-size: 10px;
+border-radius: 22px;
+border: none;
+padding-bottom: 12px;
+padding-top: 12px;
+cursor: pointer;
+top: 39px;
+margin-top: 25px;
+
+}
+
+.first-button button:hover {
+    background-color: grey;
+}
+
+
+.learn {
+    text-align: center;
+    color:white;
+    padding-top: 168px;
+    font-family: 'Lucida Sans Regular';
+    font-size: 20px;
+    margin-top: -43px;
+    
+}
+
+.the-container {
+    display: flex;
+    font-family: 'Lucida Sans Regular';
+    font-size: 15px;
+    padding-top: 44px;
+}
+
+.person-1 img{
+    border-radius: 75px;
+    margin-left:107px;
+    
+}
+.person-1 h5 {
+    color: white;
+    margin-left:110px;
+    font-weight: bolder;
+
+    
+}
+.person-1 p {
+    color: white;
+    margin-left:110px;
+    font-style: italic;
+}
+
+.person-2 img{
+    border-radius: 75px;
+    margin-left:107px;
+    
+}
+
+.person-2 h5 {
+    color:white;
+    margin-left:110px;
+    font-weight: bolder;
+}
+
+.person-2 p {
+    color:white;
+    margin-left:110px;
+    font-style: italic;
+}
+
+
+.person-3 img{
+    border-radius: 75px;
+    margin-left:107px;
+   
+}
+
+.person-3 h5 {
+    color:white;
+    margin-left:110px;
+    font-weight: bolder;
+}
+.person-3 p {
+    color:white;
+    margin-left: 110px;
+    font-style: italic;
+}
+
+
+.person-4 img{
+    border-radius: 75px;
+    margin-left:107px;
+    
+}
+
+.person-4 h5 {
+    color:white;
+    margin-left:110px;
+    font-weight: bolder;
+}
+.person-4 p {
+    color:white;
+    margin-left: 110px;
+    font-style: italic;
+
+}
+
+.image {
+    background-color: #C271FF;
+    position: absolute;
+    width: 1211px;
+    height: 300px;
+    left: -1px;
+    top: 918px;
+    margin-top: 0px;
+
+}
+
+.image img {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 142px;
+    top: 75px;
+    border-radius: 75px;;
+
+}
+
+.image p {
+    padding-left: 350px;
+    
+    padding-top: 90px;
+    color: white;
+    font-family: 'Lucida Sans Regular';
+}
+
+.this-container {
+    display:flex;
+    top:-15px;
+    font-family: 'Lucida Sans Regular';
+    margin-bottom: -35px;
+    
+    
+}
+
+.this-container p {
+    color:#07162980;
+    margin-bottom: 55px;
+}
+ 
+.profile {
+    display: flex;
+    font-family: 'Lucida Sans Regular';
+    font-weight: bold;
+    color: #C271FF;
+    font-size: 12px;
+    margin-bottom: 18px;
+    
+    
+    
+
+}
+
+.all {
+    padding-left:0px;
+    
+    
+}
+
+.all img {
+    border-radius: 30px;
+}
+
+.udustars {
+    display: flex;
+    margin-bottom: 105px;
+    
+}
+
+.an-background {
+    background-color:  #071629;
+    width: 1204px;
+    height: 504px;
+    display: flex;
+    align-items: center;
+    
+}
+.second-button button {
+    margin-top: 30px;
+}
+
+.an-background button {
+    align-self: last baseline;
+    color: white;
+    background-color:#C271FF;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-family: 'Lucida Sans Regular';
+    font-size: 10px;
+    border-radius: 22px;
+    border: none;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    cursor: pointer;
+    top: 39px;
+    margin-top: -100px;
+    margin-bottom: 80px;
+    margin-left: -496px;
+}
+
+.an-background button:hover {
+    background-color:grey ;
+}
+
+
+.an-background h4 {
+    align-self: first baseline;
+    color: white;
+    margin-left: -632px;
+    margin-bottom: 40px;
+    font-family:'Lucida Sans Regular';
+    font-size: 32px;
+}
+
+
+.facts h4 {
+    font-family: 'Lucida Sans Regular';
+    margin-left: 45px;
+    font-size: 14px;
+    
+}
+
+.facts p {
+    font-family: 'Lucida Sans Regular';
+    color:  #07162980;
+    margin-left: 45px;
+    font-size: 12px;
+   
+
+}
+
+.facts {
+    display: flex;
+    
+}
+
+.another-facts h4{
+    font-family: 'Lucida Sans Regular';
+    margin-left:45px;
+    font-size: 14px;
+}
+
+.another-facts p {
+    font-family: 'Lucida Sans Regular';
+    color:  #07162980;
+    margin-left: 45px;
+    font-size: 12px;
+    margin-bottom: 97px;
+}
+
+.another-facts {
+    display: flex;
+}
+
+.logo img{
+    padding-left: 165.9px;
+    margin-bottom: -101px;
+    
+}
+
+.social img{
+    padding-left: 900px;
+    margin-bottom: -101px;
+    margin-right: 240px;
+}
+
+.last-p p {
+    padding-left: 483px;
+    font-size: 14px;
+    font-family: 'Lucida Sans Regular';
+    position: relative;
+    color: #7a7575;
+    top:135px;
+}
